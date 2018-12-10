@@ -1,0 +1,11 @@
+{
+  "name": "Vattenfall-Example-Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Alchemy-se/Vattenfall-Example-Project.git",
+  "author": "Daniel Mauno Pettersson <daniel@mauno.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@vf-alchemy/vattenfall-design-system": "^5.9.0"
+  }
+}
