@@ -38,3 +38,14 @@ For example:
 ```
 
 Paste the code into your [index.html](./index.html) after the `<h1>` tag.
+
+## Step 3
+
+Let's add a more advanced component. 
+
+Find the `Hero` component in the documentation.
+
+Copy the example source code and paste it into your [index.html](./index.html) above the first `<div class="vf-container>` tag.
+
+For this example we've also added two images, the [hero-example.jpg](./hero-example.jpg) and [play.svg](./play.svg). 
+We've also updated the paths to those images so that they comply with their location.
